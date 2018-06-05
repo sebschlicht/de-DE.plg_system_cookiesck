@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="file" method="upgrade">
+    <name>System - Cookies CK - Deutsche Sprachdateien</name>
+    <author>Sebastian Schlicht</author>
+    <creationDate>Jun 2018</creationDate>
+    <copyright>Copyright (C) 2018 Sebastian Schlicht. All rights reserved.</copyright>
+    <license>GNU General Public License</license>
+    <authorEmail>sebastian@jablab.de</authorEmail>
+    <authorUrl>https://www.jablab.de/</authorUrl>
+    <version>1.0.9</version>
+    <description>Deutsche Sprachdateien für das Cookies CK System-Plugin von Cédric KEIFLIN.</description>
+    <fileset>
+        <files target="language/de-DE">
+            <filename>de-DE.plg_system_cookiesck.ini</filename>
+            <filename>de-DE.plg_system_cookiesck.sys.ini</filename>
+        </files>
+        <files target="administrator/language/de-DE">
+            <filename>de-DE.plg_system_cookiesck.ini</filename>
+            <filename>de-DE.plg_system_cookiesck.sys.ini</filename>
+        </files>
+    </fileset>
+</extension>
+
